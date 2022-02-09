@@ -10,6 +10,8 @@ java-script
 
 mainpage and contact_form
 
+live a star if you visit it
+
 you can visit here to watch it live
 
 https://gallant-lamarr-a3f478.netlify.app/
