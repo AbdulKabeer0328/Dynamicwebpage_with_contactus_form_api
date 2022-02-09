@@ -2,7 +2,7 @@
 Animations are fully loaded 
 
 
-its my full web_site 
+its my first web_site 
 with html, 
 css,
 java-script
